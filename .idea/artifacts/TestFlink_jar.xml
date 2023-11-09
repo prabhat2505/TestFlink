@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TestFlink:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestFlink_jar</output-path>
+    <root id="archive" name="TestFlink.jar">
+      <element id="module-output" name="TestFlink" />
+    </root>
+  </artifact>
+</component>
